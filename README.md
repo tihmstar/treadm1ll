@@ -6,7 +6,7 @@ You don't need to be as fast as lightspeed, but a run on a treadm1ll surely does
 Since i'm now busy with other stuff and likely not gonna come back to this
 here is my unfinished exploit:
 
-- works up to 11.4.6
+- works up to 11.4.1
 - gets you tfp0
 - incomplete/missing cleanup, will probably panic on exit
 
