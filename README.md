@@ -7,7 +7,7 @@ Since i'm now busy with other stuff and likely not gonna come back to this
 here is my unfinished exploit:
 
 - works up to 11.4.6
-- get's you tfp0
+- gets you tfp0
 - incomplete/missing cleanup, will probably panic on exit
 
 
