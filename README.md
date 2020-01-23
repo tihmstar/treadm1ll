@@ -1,6 +1,6 @@
 
 # treadm1ll
-You don't need to be as fast as lightspeed, but a run on a treadm1ll surely doesn't hurt.
+You don't need to be as fast as [lightspeed](https://www.synacktiv.com/posts/exploit/lightspeed-a-race-for-an-iosmacos-sandbox-escape.html), but a run on a treadm1ll surely doesn't hurt.
 
 ---
 Since i'm now busy with other stuff and likely not gonna come back to this
@@ -20,3 +20,8 @@ Get your own if you wanna run it on something else ;)
 
 PS: exploit uses userland derefs, so it won't work with PAN  
 only for phones with headphone jack
+
+---
+
+A great writeup by Luca Moro (johncool) on the bug can be found here:  
+[https://www.synacktiv.com/posts/exploit/lightspeed-a-race-for-an-iosmacos-sandbox-escape.html](https://www.synacktiv.com/posts/exploit/lightspeed-a-race-for-an-iosmacos-sandbox-escape.html)
